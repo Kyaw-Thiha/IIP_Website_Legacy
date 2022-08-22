@@ -11,5 +11,5 @@ export default {
 			loadPath: "./src/locales/{{lng}}.json",
 		},
 	},
-	i18nextPlugins: { fsBackend: "i18next-localstorage-backend" },
+	i18nextPlugins: { fsBackend: "i18next-http-backend" },
 };

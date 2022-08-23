@@ -1,6 +1,6 @@
 # Welcome to [Astro](https://astro.build)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/Kyaw-Thiha/IIP_Website?file="src/pages/index.astro"&title="IIP%20Website")
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/Kyaw-Thiha/IIP_Website?file="src/pages/index.astro"&title=IIP%20Website)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 

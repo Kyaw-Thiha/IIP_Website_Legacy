@@ -10,15 +10,6 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/sitemap": "^1.0.0",
-    "@astrojs/tailwind": "^1.0.0",
-    "@astrojs/vue": "^1.0.0",
-    "astro": "^1.0.6",
-    "astro-i18next": "^1.0.0-beta.4",
-    "i18next-http-backend": "^1.4.1",
-    "prettier": "^2.7.1",
-    "prettier-plugin-astro": "^0.5.0",
-    "vue": "^3.2.30"
-  },
-  "dependencies": {}
+    "astro": "^1.0.7"
+  }
 }

@@ -4,7 +4,7 @@ export default {
 	supportedLanguages: ["en", "my"],
 	i18next: {
 		// debug is convenient during development to check for missing keys
-		//debug: true,
+		debug: true,
 		initImmediate: false,
 		backend: {
 			loadPath: "./src/locales/{{lng}}/{{ns}}.json",
